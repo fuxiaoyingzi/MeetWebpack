@@ -10,3 +10,5 @@ webpack 打包配置从0 到 1
 4.npm run dev ，测试环境 调试项目
 
 5.npm run build ，打包项目，生成文件dist
+
+6.webpack.config.js 已经弃用
